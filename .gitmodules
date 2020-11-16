@@ -7,3 +7,6 @@
 [submodule "bb-bootloader"]
 	path = bb-bootloader
 	url = https://github.com/ProgrammableMatterProject/bb-bootloader.git
+[submodule "bb-cli"]
+	path = bb-cli
+	url = https://github.com/ProgrammableMatterProject/bb-cli.git
