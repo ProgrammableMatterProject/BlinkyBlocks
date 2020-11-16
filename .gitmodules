@@ -1,3 +1,9 @@
 [submodule "bb-gui"]
 	path = bb-gui
 	url = https://github.com/ProgrammableMatterProject/bb-gui.git
+[submodule "bb-apploader"]
+	path = bb-apploader
+	url = https://github.com/ProgrammableMatterProject/bb-apploader.git
+[submodule "bb-bootloader"]
+	path = bb-bootloader
+	url = https://github.com/ProgrammableMatterProject/bb-bootloader.git
