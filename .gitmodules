@@ -1,0 +1,3 @@
+[submodule "bb-gui"]
+	path = bb-gui
+	url = https://github.com/ProgrammableMatterProject/bb-gui.git
