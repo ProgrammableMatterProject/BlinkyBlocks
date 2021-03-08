@@ -31,3 +31,11 @@ This will automatically initialize and update each submodule in the repository
 
 If you already cloned the project and forgot to update submodule
 `git submodule update --init --recursive`
+
+### :question: F.A.Q.
+
+Ask questions or find anwsers on the dedicated [forum](https://github.com/ProgrammableMatterProject/BlinkyBlocks/discussions).
+
+### :notebook_with_decorative_cover: Wiki
+
+Detailed information is published under [wiki pages](https://github.com/ProgrammableMatterProject/BlinkyBlocks/wiki). Please use them to collaborate and add content over time.
