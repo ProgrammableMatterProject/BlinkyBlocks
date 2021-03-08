@@ -1,4 +1,4 @@
-# BlinkyBlocks
+# Blinky Blocks
 
 ## bb-apploader
 
