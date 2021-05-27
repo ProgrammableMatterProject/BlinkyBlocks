@@ -13,3 +13,6 @@
 [submodule "blinky-network-to-arduino"]
 	path = blinky-network-to-arduino
 	url = https://github.com/ProgrammableMatterProject/blinky-network-to-arduino
+[submodule "bb-applications"]
+	path = bb-applications
+	url = https://github.com/ProgrammableMatterProject/bb-applications
