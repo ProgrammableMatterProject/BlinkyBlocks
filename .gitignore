@@ -15,3 +15,4 @@ bld/
 blinky-network-to-arduino
 bb-gui
 bb-apploader
+build*

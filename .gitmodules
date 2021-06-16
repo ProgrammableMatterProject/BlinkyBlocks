@@ -10,9 +10,12 @@
 [submodule "bb-cli"]
 	path = bb-cli
 	url = https://github.com/ProgrammableMatterProject/bb-cli.git
-[submodule "blinky-network-to-arduino"]
-	path = blinky-network-to-arduino
-	url = https://github.com/ProgrammableMatterProject/blinky-network-to-arduino
 [submodule "bb-applications"]
 	path = bb-applications
 	url = https://github.com/ProgrammableMatterProject/bb-applications
+[submodule "bb-bridge"]
+	path = bb-bridge
+	url = https://github.com/ProgrammableMatterProject/bb-bridge.git
+[submodule "bb-arduino"]
+	path = bb-arduino
+	url = https://github.com/ProgrammableMatterProject/bb-arduino.git
