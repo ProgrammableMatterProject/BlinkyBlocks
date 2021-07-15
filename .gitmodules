@@ -19,3 +19,6 @@
 [submodule "bb-arduino"]
 	path = bb-arduino
 	url = https://github.com/ProgrammableMatterProject/bb-arduino.git
+[submodule "bb-library"]
+	path = bb-library
+	url = https://github.com/ProgrammableMatterProject/bb-library
